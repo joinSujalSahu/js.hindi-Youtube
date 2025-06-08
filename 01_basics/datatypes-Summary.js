@@ -23,39 +23,13 @@ let obj1 ={
     name :"sujal",
     id :101
 }
-// console.log(obj1);
+console.log(obj1);
 
 
 
 const myFunction = function(){
-    // console.log("Hello World!");
+    console.log("Hello World!");
     
 }
-
-
-
-
-
-
-
-// Stack (primitive datatype).   Heap(Non-promitive datatype)
- let myYoutubeName = "sujal-edits"
- let anotherName = myYoutubeName
- anotherName="Sujal-Music"
-//  console.log(anotherName);
-// console.log(myYoutubeName);
-
-
-let userOne ={
-    email: "Sujal@gmail.com",
-    id: 123,
-}
-let userTwo= userOne
-userTwo.email = "Sujal-music@gmail.com"
-console.log(userOne.email);
-console.log(userTwo.email);
-
-
-
 
 
